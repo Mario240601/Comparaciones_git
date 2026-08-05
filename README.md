@@ -1,1 +1,7 @@
-# Comparaciones_git
+## PROYECTO WEB INICIAL
+
+## INTRODUCCION
+
+## PROPOSITO
+
+## COMO CONTRIBUIR
